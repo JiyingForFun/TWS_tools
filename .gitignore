@@ -1,0 +1,12 @@
+
+datas/
+data/
+*/__pycache__/
+*__.py
+*.bin
+*test
+*.csv
+*.swp
+*.swo
+
+
